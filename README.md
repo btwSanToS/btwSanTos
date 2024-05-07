@@ -2,12 +2,10 @@
 
 
 Seja bem vindo ao meu repositório.
-
 Meu repositório no momento é para meus aprendizados, códigos de cursos e desafios concluídos.
+Estou estudando para me tornar um desenvolvedor Front-End! 👊🔥
 
 Elaborei este repositório com o objetivo de acompanhar o meu progresso e compartilhar com aqueles que também o visualizarem.
-
-Estou disponível para esclarecer dúvidas, receber feedbacks e aprender com as experiências e conhecimentos de outros. 👊🔥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwsantos&show_icons=true&theme=dark)
 
