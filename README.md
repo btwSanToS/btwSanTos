@@ -1,7 +1,7 @@
 ### Opa, me chamo André Santos 👋🏻
 
 
-Seja bem vindo ao meu repositório.
+Seja bem vindos ao meu repositório.
 Meu repositório no momento é para meus aprendizados, códigos de cursos e desafios concluídos.
 Estou estudando para me tornar um desenvolvedor Front-End! 👊🔥
 
